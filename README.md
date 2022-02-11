@@ -1,4 +1,6 @@
-### Hi there👋
+# Hello there👋
+
+https://img.shields.io/badge/<Python>-<My favourite language>-<green>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-lebedev)](https://github.com/daniil-lebedev/github-readme-stats)
 
