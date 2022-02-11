@@ -1,8 +1,5 @@
 # Hello there👋
 
-https://img.shields.io/badge/Python-My%20favourite%20language-green
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-lebedev)](https://github.com/daniil-lebedev/github-readme-stats)
 
 - 🔭 I’m currently working on finishing my first year at Newcastle University.
 - 🌱 I’m currently learning Java.
@@ -12,3 +9,4 @@ https://img.shields.io/badge/Python-My%20favourite%20language-green
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak Russian and English.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-lebedev)](https://github.com/daniil-lebedev/github-readme-stats)
