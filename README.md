@@ -11,3 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil-lebedev)](https://github.com/daniil-lebedev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniil-lebedev)](https://github.com/daniil-lebedev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniil-lebedev&repo=github-readme-stats)](https://github.com/daniil-lebedev/github-readme-stats)
