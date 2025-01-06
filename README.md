@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m Daniil Lebedev, a Computer Science graduate 
 ## 🚀 About Me
 
 - 🎓 **Education**: Recently graduated with a 2:1 in Computer Science from Newcastle University.
-- 💼 **Current Role**: Founder and CEO of [ILP Solutions](https://ilp-solutions.co.uk).
 - 💬 **Ask Me About**: Tech startups, backend development, and university experiences.
 - 📫 **Reach Me**: [@danusha_lebedev](https://www.instagram.com/danusha_lebedev) on Instagram.
 - 🌍 **Languages**: Fluent in English and Russian.
