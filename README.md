@@ -1,11 +1,15 @@
+Below is an updated version of your GitHub profile README that incorporates your new experience at Storm Reply and the Newcastle University Website Developer role, while also keeping your previous roles and skills. You can further tweak details to best match your narrative:
+
+---
+
 # Hello there 👋👨🏻‍💻
 
-Welcome to my GitHub profile! I’m Daniil Lebedev, a Computer Science graduate turned entrepreneur, passionate about leveraging technology to solve real-world problems.
+Welcome to my GitHub profile! I’m Daniil Lebedev—a Computer Science graduate turned entrepreneur and Full Stack Engineer. I’m passionate about leveraging technology to solve real-world problems and continuously pushing the boundaries of software development.
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Recently graduated with a 2:1 in Computer Science from Newcastle University.
-- 💬 **Ask Me About**: Tech startups, backend development, and university experiences.
+- 🎓 **Education**: Graduated with a 2:1 in Computer Science from Newcastle University.
+- 💬 **Ask Me About**: Tech startups, full-stack engineering, backend & frontend development, CI/CD optimization, and university experiences.
 - 📫 **Reach Me**: [@danusha_lebedev](https://www.instagram.com/danusha_lebedev) on Instagram.
 - 🌍 **Languages**: Fluent in English and Russian.
 - 😄 **Pronouns**: He/Him.
@@ -13,51 +17,64 @@ Welcome to my GitHub profile! I’m Daniil Lebedev, a Computer Science graduate 
 
 ## 💼 Experience
 
-### Founder & CEO
-**ILP Solutions**  
-*June 2024 – Present*
+### Full Stack Engineer  
+**Storm Reply**  
+*Sep 2024 – Present · London Area, United Kingdom (Hybrid)*
 
-- Spearheading innovative tech solutions to help businesses streamline operations and embrace digital transformation.
-- Leading a dynamic team to develop cutting-edge software products.
-- Managing all aspects of the business, from development to client relations.
+- Migrated deployment pipelines from Jenkins and Bitbucket to GitHub Actions, optimizing CI/CD processes and reducing deployment times.
+- Transitioned Docker images and tags from DockerHub to GitHub Container Registry to streamline container management and boost security.
+- Developed backend features to efficiently query large datasets, process input, and relay data to the frontend, significantly enhancing data handling performance.
+- Refactored insecure DTOs to prevent exposure of sensitive information, such as hashed passwords.
+- Created scalable, responsive web pages using Vue.js, ensuring optimal data display and user experience.
+- Leveraged internal training platforms to deepen my expertise in modern web development.
 
-### Software Engineer Intern
-**comparethemarket.com**  
-*June 2023 – August 2023, London*
-
-- Developed a dynamic dashboard for monitoring Kubernetes services using Prometheus API.
-- Implemented a Dockerized MongoDB cache, boosting load speed by 28%.
-- Built a FastAPI backend with asynchronous endpoints.
-
-### Software Database Developer
-**Hexis Lab Limited**  
-*June 2022 – February 2023, Newcastle upon Tyne*
-
-- Enhanced data visualization with React and Elasticsearch.
-- Automated production processes using Docker.
-- Developed a Django web app leveraging AI for image analysis.
-
-### Software Web Developer
-**Vegan Chemist**  
-*December 2022 – January 2023, Newcastle upon Tyne*
-
-- Created a Django web application for medical product management.
-- Designed and implemented PostgreSQL databases.
-- Improved deployment efficiency by 40% using Docker containers.
-
-### Web Data Analyst
+### Website Developer (Internship)  
 **Newcastle University**  
-*June 2022 – June 2022, Newcastle upon Tyne*
+*Feb 2024 – Jun 2024 · Newcastle-upon-Tyne, England, United Kingdom (Hybrid)*
 
-- Conducted sentiment analysis on social media data using VADER.
-- Analyzed over 9,000 tweets and 450,000 replies for meaningful insights.
-- Visualized data findings with detailed graphs and representations.
+- Led the design and development of responsive WordPress websites, using Figma for prototyping.
+- Customized WordPress themes and plugins to deliver optimal performance and meet client-specific requirements.
+- Implemented responsive design strategies to ensure seamless experiences across various devices.
+- Collaborated with cross-functional teams to deliver projects on time and aligned with client expectations.
+- Conducted usability testing and integrated feedback to create user-centric designs.
+
+### Software Engineer Intern  
+**comparethemarket.com**  
+*Jun 2023 – Aug 2023 · London, England, United Kingdom (Hybrid)*
+
+- Created a dynamic dashboard for internal Kubernetes services using the Prometheus API for real-time tracking and version management.
+- Leveraged GitHub API releases to ensure up-to-date service monitoring and optimized data storage with a Dockerized MongoDB solution.
+- Designed and implemented a robust FastAPI backend with asynchronous endpoints to facilitate seamless data flow to a React frontend.
+- Streamlined service collaboration and deployment with Docker Compose, enhancing efficiency and scalability.
+
+### Software Database Developer  
+**Hexis Lab Limited**  
+*Jun 2022 – Feb 2023 · Newcastle upon Tyne, England, United Kingdom*
+
+- Developed the UI for the website using React, integrating REST APIs with Django for effective data display.
+- Automated production processes using Docker containers, enhancing operational efficiency.
+
+### Software Database Developer  
+**Vegan Chemist**  
+*Dec 2022 – Jan 2023 · Newcastle upon Tyne, England, United Kingdom (Hybrid)*
+
+- Designed and implemented a scalable MySQL database for managing large data sets.
+- Streamlined production processes using Docker containers.
+- Built intuitive management panels with role-based access control to simplify product management.
+
+### Web Data Analyst (Internship)  
+**Newcastle University**  
+*Jun 2022 · Newcastle upon Tyne, England, United Kingdom (Remote)*
+
+- Downloaded and analyzed Twitter comments and replies using the Twitter API.
+- Conducted sentiment analysis with VADER to extract meaningful insights.
+- Generated detailed graphs and visualizations to represent the data findings.
 
 ## 🛠 Skills
 
-- **Languages**: Python, C++, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks**: Django, FastAPI, React
-- **Tools**: Docker, Kubernetes, Git, Prometheus, Elasticsearch
+- **Languages**: Python, C++, Java, JavaScript, HTML/CSS, SQL, .NET
+- **Frameworks/Libraries**: Django, FastAPI, React, Vue.js, WordPress
+- **Tools**: Docker, Kubernetes, Git, GitHub Actions, Prometheus, Elasticsearch, Figma
 - **Databases**: PostgreSQL, MongoDB, MySQL
 
 ## 🌐 Find Me Online
