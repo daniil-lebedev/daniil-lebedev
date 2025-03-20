@@ -1,7 +1,3 @@
-Below is an updated version of your GitHub profile README that incorporates your new experience at Storm Reply and the Newcastle University Website Developer role, while also keeping your previous roles and skills. You can further tweak details to best match your narrative:
-
----
-
 # Hello there 👋👨🏻‍💻
 
 Welcome to my GitHub profile! I’m Daniil Lebedev—a Computer Science graduate turned entrepreneur and Full Stack Engineer. I’m passionate about leveraging technology to solve real-world problems and continuously pushing the boundaries of software development.
